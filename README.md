@@ -1,1 +1,1 @@
-![deggubkcitsteg](https://tenor.com/bnM1E.gif)
+![deggubkcitsteg](https://media.giphy.com/media/Wrh8aL75aj4uZwuqta/giphy.gif)

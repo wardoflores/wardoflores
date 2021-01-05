@@ -1,1 +1,1 @@
-<img src="https://media.giphy.com/media/Wrh8aL75aj4uZwuqta/giphy.gif" width="100" height="100" alt="getstickbugged">
+Personal account for my Private General Python repository, might make open-source projects soon.

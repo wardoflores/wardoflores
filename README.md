@@ -3,17 +3,17 @@ Personal account for my Private General Python repository, might make open-sourc
 
 ## Languages learned:
 
-*Python  
+- Python  
 
-*SQL
+- SQL
 
 ## Topics studying right now:
 
-*Data Structures and Algorithms  
+- Data Structures and Algorithms  
 
-*Python Basic Problem solving  
+- Python Basic Problem solving  
 
-*Python Data Science  
+- Python Data Science  
 
-*SQL
+- SQL
 

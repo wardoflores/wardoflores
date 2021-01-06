@@ -17,3 +17,14 @@ Personal account for my Private General Python repository, might make open-sourc
 
 - SQL
 
+- NLTK
+
+- APIs
+
+  - Discord
+  
+  - Twitter
+  
+## Projects i'm working on:
+
+- None

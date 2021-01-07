@@ -11,9 +11,11 @@ Personal account for my Private General Python repository, might make open-sourc
 
 - Data Structures and Algorithms  
 
-- Python Basic Problem solving  
+- Python 
 
-- Python Data Science  
+  - Basic Problem solving 
+
+  - Data Science   
 
 - SQL
 

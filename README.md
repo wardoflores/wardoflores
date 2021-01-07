@@ -5,7 +5,11 @@ Personal account for my Private General Python repository, might make open-sourc
 
 - Python  
 
+## Languages to learn:
+
 - SQL
+
+- C++
 
 ## Topics studying right now:
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello! 
+# Hey, who brought you here?
 Personal account for my Private General Python repository, might make open-source projects soon.
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<imgsrc="https://github.com/Coalemus/General-Python-Repository/blob/master/.githubstash/giphy.gif" alt="put that away" width="250">
+<img src="https://github.com/Coalemus/General-Python-Repository/blob/master/.githubstash/giphy.gif" alt="put that away" width="250">
 
 # Hey, who brought you here?
 Personal account for my Private General Python repository, might make open-source projects soon.

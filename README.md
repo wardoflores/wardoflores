@@ -26,6 +26,8 @@ Personal account for my Private General Python repository, might make open-sourc
   - Basic Problem solving 
 
   - Data Science   
+  
+  - Automate the Boring stuff
 
 - SQL
 

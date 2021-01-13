@@ -19,15 +19,17 @@ Personal account for my Private General Python repository, might make open-sourc
 
 ## Topics studying right now:
 
-- Data Structures and Algorithms  
+- Data Structures and Algorithms 
+
+  - w3schools
 
 - Python 
 
-  - Basic Problem solving 
-
-  - Data Science   
+  - Core Fundamentals (Automate the Boring Stuff with Pythn)
   
-  - Automate the Boring stuff
+  -  Basic Problem solving (HackerRank)
+
+  - Data Science (SoloLearn)
 
 - SQL
 
@@ -39,9 +41,9 @@ Personal account for my Private General Python repository, might make open-sourc
 
 - APIs
 
-  - Discord
+  - Discord (Discord.py)
   
-  - Twitter
+  - Twitter (Tweepy)
   
 ## Projects i'm working on:
 

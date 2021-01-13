@@ -31,13 +31,8 @@ Personal account for my Private General Python repository, might make open-sourc
 
   - Data Science (SoloLearn)
 
-- SQL
+  - Chat Bots (NLTK & Chatterbot)
 
-- Chat Bots
-
-  - ChatterBot
-  
-  - NLTK
 
 - APIs
 
@@ -47,4 +42,4 @@ Personal account for my Private General Python repository, might make open-sourc
   
 ## Projects i'm working on:
 
-- None
+- Interpreting Zen koans as code.

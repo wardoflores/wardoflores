@@ -9,37 +9,30 @@ Personal account for my Private General Python repository, might make open-sourc
 
 ## Languages learned:
 
-- Python  
+* Python  
 
 ## Languages to learn:
 
-- SQL
+* SQL
 
-- C++
+* C++
 
 ## Topics studying right now:
 
-- Data Structures and Algorithms 
+* Data Structures and Algorithms 
 
-  - w3schools
+  * w3schools
 
-- Python 
+* Python 
 
-  - Core Fundamentals (Automate the Boring Stuff with Pythn)
+  * Core Fundamentals (book:"Automate the Boring Stuff with Python")
   
-  -  Basic Problem solving (HackerRank)
+  *  Basic Problem solving (site:HackerRank)
 
-  - Data Science (SoloLearn)
+  * Data Science (site:SoloLearn)
 
-  - Chat Bots (NLTK & Chatterbot)
+  * Chat Bots (library:NLTK & library:Chatterbot)
 
+  * APIs (library:discord.py & library:tweepy)
 
-- APIs
-
-  - Discord (Discord.py)
   
-  - Twitter (Tweepy)
-  
-## Projects i'm working on:
-
-- Interpreting Zen koans as code.

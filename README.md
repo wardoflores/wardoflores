@@ -11,9 +11,15 @@ Personal account for my Private General Python repository, might make open-sourc
 
 * Python  
 
-## Languages to learn:
+* HTML
 
 * SQL
+
+## Languages to learn:
+
+* CSS
+
+* Javascript
 
 * C++
 
@@ -21,18 +27,38 @@ Personal account for my Private General Python repository, might make open-sourc
 
 * Data Structures and Algorithms 
 
-  * w3schools
+  * book:Algorithms in a Nutshell
+
+  * site:w3schools
 
 * Python 
 
-  * Core Fundamentals (book:"Automate the Boring Stuff with Python")
+  * book:Automate the Boring Stuff with Python
   
-  *  Basic Problem solving (site:HackerRank)
+  * site:HackerRank
 
-  * Data Science (site:SoloLearn)
+  * site:SoloLearn
 
-  * Chat Bots (library:NLTK & library:Chatterbot)
+* Chat Bots 
 
-  * APIs (library:discord.py & library:tweepy)
-
+  * Library:NLTK
   
+  * Library:Chatterbot
+
+* APIs
+
+  * library:discord.py
+
+  * library:tweepy
+
+* Data Science
+
+  * book:Mathematics for Machine learning
+
+  * site:Sololearn
+  
+  * site:Pluralsight
+  
+* Web Developement
+
+  * site:Sololearn

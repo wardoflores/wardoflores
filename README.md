@@ -27,38 +27,38 @@ Personal account for my Private General Python repository, might make open-sourc
 
 * Data Structures and Algorithms 
 
-  * book:Algorithms in a Nutshell
+  * book: Algorithms in a Nutshell
 
-  * site:w3schools
+  * site: w3schools
 
 * Python 
 
-  * book:Automate the Boring Stuff with Python
+  * book: Automate the Boring Stuff with Python
   
-  * site:HackerRank
+  * site: HackerRank
 
-  * site:SoloLearn
+  * site: SoloLearn
 
 * Chat Bots 
 
-  * Library:NLTK
+  * Library: NLTK
   
-  * Library:Chatterbot
+  * Library: Chatterbot
 
 * APIs
 
-  * library:discord.py
+  * library: discord.py
 
-  * library:tweepy
+  * library: tweepy
 
 * Data Science
 
-  * book:Mathematics for Machine learning
+  * book: Mathematics for Machine learning
 
-  * site:Sololearn
+  * site: Sololearn
   
-  * site:Pluralsight
+  * site: Pluralsight
   
 * Web Developement
 
-  * site:Sololearn
+  * site: Sololearn

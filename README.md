@@ -3,7 +3,7 @@
 <img src="https://github.com/Coalemus/Personal-Data/blob/main/giphy.gif" alt="put that away" width="250">
 
 # Hey, who brought you here?
-Personal account for my Private General Python repository, might make open-source projects soon.
+Personal account for my Private repositories, might make public open-source projects soon.
 
 </div>
 

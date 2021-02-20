@@ -59,7 +59,7 @@ Personal account for my Private repositories, might make public open-source proj
   
   * site: Pluralsight
   
-* Web Developement
+* Web Developement (HTmL, CSS, Javascript)
 
   * site: Sololearn
 

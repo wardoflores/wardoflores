@@ -62,3 +62,7 @@ Personal account for my Private repositories, might make public open-source proj
 * Web Developement
 
   * site: Sololearn
+
+* SQL
+
+  * site: Select Star SQL

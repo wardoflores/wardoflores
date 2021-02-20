@@ -13,11 +13,11 @@ Personal account for my Private repositories, might make public open-source proj
 
 * HTML
 
+* CSS
+
 * SQL
 
 ## Languages to learn:
-
-* CSS
 
 * Javascript
 

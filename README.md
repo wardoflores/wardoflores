@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Coalemus/Coalemus/blob/main/susgiphy.gif" alt="put that away" width="250">
+<img src="https://github.com/Coalemus/Coalemus/blob/main/susgiphy.gif" alt="put that away" width="250" height="350">
 
 # Hey, who brought you here?
 Personal account for my Private repositories, might make public open-source projects soon.
@@ -24,6 +24,8 @@ Personal account for my Private repositories, might make public open-source proj
 * C++
 
 ## Topics studying right now:
+<details>
+ <summary></summary>
 
 * Data Structures and Algorithms 
 

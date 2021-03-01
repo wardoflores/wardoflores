@@ -10,21 +10,22 @@ Personal account for my Private repositories, might make public open-source proj
 
 <details>
 <summary></summary>
-* Languages learned:
+ 
+Languages learned:
 
- * HTML
+* HTML
 
- * CSS  
+* CSS  
 
- * SQL
+* SQL
 
- * Python
+* Python
 
-* Languages to learn:
+Languages to learn:
 
- * Javascript
+* Javascript
 
- * C++
+* C++
 
 </details>
 <h1>Topics studying right now:</h1>

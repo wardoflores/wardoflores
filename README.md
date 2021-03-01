@@ -5,7 +5,7 @@
 # Hey, who brought you here?
 Personal account for my Private repositories, might make public open-source projects soon.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coalemus)](https://github.com/anuraghazra/github-readme-stats)
+[![Coalemus' GitHub stats](https://github-readme-stats.vercel.app/api?username=coalemus&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

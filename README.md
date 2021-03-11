@@ -3,7 +3,7 @@
 <img src="https://github.com/Coalemus/Coalemus/blob/main/susgiphy.gif" alt="put that away" width="250" height="300">
 
 # Hey, who brought you here?
-Personal account for my Private repositories, might make public open-source projects soon.
+Code monke here.
 
 [![Coalemus' GitHub stats](https://github-readme-stats.vercel.app/api?username=coalemus&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -60,6 +60,8 @@ Languages to learn:
   * library: discord.py
 
   * library: tweepy
+
+  * library: PRAW
 
 * Data Science
 

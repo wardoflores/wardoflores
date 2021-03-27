@@ -39,8 +39,6 @@ Languages to learn:
 
   * book: Algorithms in a Nutshell
 
-  * site: w3schools
-
 * Python 
 
   * book: Automate the Boring Stuff with Python
@@ -49,17 +47,7 @@ Languages to learn:
 
   * site: SoloLearn
 
-* Chat Bots 
-
-  * Library: NLTK
-  
-  * Library: Chatterbot
-
 * APIs
-
-  * library: discord.py
-
-  * library: tweepy
 
   * library: PRAW
 
@@ -69,9 +57,7 @@ Languages to learn:
 
   * site: Sololearn
   
-  * site: Pluralsight
-  
-* Web Developement (HTmL, CSS, Javascript)
+* Javascript
 
   * site: Sololearn
 

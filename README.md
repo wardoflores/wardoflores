@@ -63,6 +63,7 @@ Languages to learn:
 
 * SQL
 
+  * site: SQL Course
   * site: Select Star SQL
 
 </details>

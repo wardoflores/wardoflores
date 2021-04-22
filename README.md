@@ -8,12 +8,12 @@
 
 </div>
 
-<h1>Languages</h1>
+<h2>Languages</h2>
 
 <details>
 <summary></summary>
  
-Languages learned:
+Languages learned
 
 * HTML
 
@@ -25,12 +25,13 @@ Languages learned:
 
 * Javascript
 
-Languages to learn:
+Languages to learn
 
 * C++
 
 </details>
-<h1>Topics studying right now:</h1>
+
+<h2>Topics studying right now</h2>
 <details>
  <summary></summary>
 

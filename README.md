@@ -4,7 +4,7 @@
 
 # Hey, who brought you here?
 
-[![Coalemus' GitHub stats](https://github-readme-stats.vercel.app/api?username=coalemus&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://coalemus.github.io/Portfolio-Website/">Visit my website!</a>
 
 </div>
 

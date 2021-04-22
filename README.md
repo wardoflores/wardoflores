@@ -3,7 +3,6 @@
 <img src="https://github.com/Coalemus/Coalemus/blob/main/susgiphy.gif" alt="put that away" width="250" height="300">
 
 # Hey, who brought you here?
-Code monke here.
 
 [![Coalemus' GitHub stats](https://github-readme-stats.vercel.app/api?username=coalemus&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,9 +23,9 @@ Languages learned:
 
 * Python
 
-Languages to learn:
-
 * Javascript
+
+Languages to learn:
 
 * C++
 
@@ -37,33 +36,15 @@ Languages to learn:
 
 * Data Structures and Algorithms 
 
-  * book: Algorithms in a Nutshell
+  * Algorithms in a Nutshell
 
 * Python 
 
-  * book: Automate the Boring Stuff with Python
-  
-  * site: HackerRank
+  * Automate the Boring Stuff with Python
 
-  * site: SoloLearn
-
-* APIs
-
-  * library: PRAW
 
 * Data Science
 
-  * book: Mathematics for Machine learning
-
-  * site: Sololearn
-  
-* Javascript
-
-  * site: Sololearn
-
-* SQL
-
-  * site: SQL Course
-  * site: Select Star SQL
+  * Mathematics for Machine learning
 
 </details>

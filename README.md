@@ -4,6 +4,8 @@
 
 # Hey, who brought you here?
 
+I do code as a hobby and hope to make it into a career, hope my projects help in some way.
+
 <a href="https://coalemus.github.io/Portfolio-Website/">Visit my website!</a>
 
 </div>

@@ -27,8 +27,6 @@ Languages learned
 
 * Javascript
 
-Languages to learn
-
 * C++
 
 </details>

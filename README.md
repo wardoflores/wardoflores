@@ -10,42 +10,39 @@ I do code as a hobby and hope to make it into a career, hope my projects help in
 
 </div>
 
-<h2>Languages</h2>
+<h2>Learned Languages</h2>
 
 <details>
 <summary></summary>
+
+- HTML
+
+- CSS  
+
+- Javascript
  
-Languages learned
+- SQL
 
-* HTML
+- Python
 
-* CSS  
-
-* SQL
-
-* Python
-
-* Javascript
-
-* C++
+- C++
 
 </details>
 
-<h2>Topics studying right now</h2>
+<h2>Programming Books reading right now</h2>
 <details>
  <summary></summary>
 
-* Data Structures and Algorithms 
+- Data Structures and Algorithms 
 
-  * Algorithms in a Nutshell
+  - Algorithms in a Nutshell
 
-* Python 
+- Python 
 
-  * Automate the Boring Stuff with Python
+  - Automate the Boring Stuff with Python
 
+- Data Science
 
-* Data Science
-
-  * Mathematics for Machine learning
+  - Mathematics for Machine learning
 
 </details>

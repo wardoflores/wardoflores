@@ -39,10 +39,9 @@ I do code as a hobby and hope to make it into a career, hope my projects help in
  
 - Cracking the Coding Interview
  
- - Data Structures and Algorithms 
+- Data Structures and Algorithms 
 
-  - Algorithms in a Nutshell
-
+ - Algorithms in a Nutshell
 
 - Data Science
 

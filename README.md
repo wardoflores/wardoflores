@@ -33,13 +33,16 @@ I do code as a hobby and hope to make it into a career, hope my projects help in
 <details>
  <summary></summary>
 
-- Data Structures and Algorithms 
-
-  - Algorithms in a Nutshell
-
 - Python 
 
   - Automate the Boring Stuff with Python
+ 
+- Cracking the Coding Interview
+ 
+ - Data Structures and Algorithms 
+
+  - Algorithms in a Nutshell
+
 
 - Data Science
 

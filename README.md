@@ -7,38 +7,3 @@
 I do code as a hobby and as a career, hope my projects help in some way.
 
 <a href="https://wardo-portfolio.vercel.app">Visit my website!</a>
-
-</div>
-
-<h2>Learned Languages</h2>
-
-<details>
-<summary></summary>
-
-- HTML
-
-- CSS  
-
-- Javascript
- 
-- SQL
-
-- Python
-
-- C++
-
-</details>
-
-<h2>Programming Books reading right now</h2>
-<details>
- <summary></summary>
-
-- Automate the Boring Stuff with Python
- 
-- Cracking the Coding Interview
-
-- Algorithms in a Nutshell
-
-- Mathematics for Machine learning
-
-</details>

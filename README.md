@@ -6,4 +6,4 @@
 
 I do code as a hobby and as a career, hope my projects help in some way.
 
-<a href="https://wardo-portfolio.vercel.app">Visit my website!</a>
+<a href="https://wardo-portfolio.netlify.app">Visit my website!</a>
